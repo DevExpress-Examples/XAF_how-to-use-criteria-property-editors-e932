@@ -1,21 +1,20 @@
 <!-- default badges list -->
-![](https://img.shields.io/endpoint?url=https://codecentral.devexpress.com/api/v1/VersionRange/128594238/23.1.1%2B)
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E932)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 <!-- default file list -->
-*Files to look at*:
 
-* [CriteriaController.cs](CS/EFCore/CriteriaPropertiesEF/CriteriaPropertiesEF.Module/Controllers/CriteriaController.cs) 
-* [FilteringCriterion.cs](CS/EFCore/CriteriaPropertiesEF/CriteriaPropertiesEF.Module/BusinessObjects/FilteringCriterion.cs) 
 <!-- default file list end -->
 # How to use Criteria Property Editors
 
+This example illustrates the specifics of using Criteria Property Editors in an XAF application. 
+![image](https://github.com/DevExpress-Examples/XAF_how-to-use-criteria-property-editors-e932/assets/14300209/70622811-3dfb-417c-9d05-31113a228fe3)
+
+## Implementation Details
+The complete description is available in the following help topic: [Use Criteria Property Editors](https://docs.devexpress.com/eXpressAppFramework/113143/ui-construction/view-items-and-property-editors/property-editors/use-criteria-property-editors).
 
 
-<p>This example illustrates the specifics of using Criteria Property Editors in an XAF application. The complete description is available in the <a href="http://documentation.devexpress.com/#Xaf/CustomDocument3143">How to: Use Criteria Property Editors</a> help topic.<br /><br />
-<p><strong>See Also:</strong><br /> <a href="https://www.devexpress.com/Support/Center/p/Q219209">How to dynamic change the ObjectType Criteria Property Editors </a></p>
+## Files to Review
 
-<br/>
-
-
+- [CriteriaController.cs](CS/EFCore/CriteriaPropertiesEF/CriteriaPropertiesEF.Module/Controllers/CriteriaController.cs) 
+- [FilteringCriterion.cs](CS/EFCore/CriteriaPropertiesEF/CriteriaPropertiesEF.Module/BusinessObjects/FilteringCriterion.cs) 
